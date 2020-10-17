@@ -38,7 +38,7 @@ $ yarn install <br/>
 $ yarn dev <br/>
 <span class="pl-c"><span class="pl-c">#</span> Rode as migrations</span>
 $ yarn migration:run <br/>
-<span class="pl-c"><span class="pl-c">#</span> The app will automatically reload if you change any of the source files.</span></pre>
+</pre>
 </div>
     <h4>Web</h4>
     <div class="highlight highlight-source-shell">
@@ -49,7 +49,7 @@ $ yarn install<br/>
 <span class="pl-c"><span class="pl-c">#</span> Rode a aplicação</span>
 $ yarn dev <br/>
 <span class="pl-c"><span class="pl-c">#</span> Navigate to http://localhost:3000</span>
-<span class="pl-c"><span class="pl-c">#</span> The app will automatically reload if you change any of the source files.</span></pre>
+</pre>
 </div>
   <!--<h4> Mobile</h4>
     <div class="highlight highlight-source-shell">
