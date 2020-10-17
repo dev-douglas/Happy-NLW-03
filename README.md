@@ -34,7 +34,7 @@ $ git clone https://github.com/dev-douglas/Happy-NLW-03/</pre>
 $ <span class="pl-c1">cd</span> Happy-NLW-03/backend <br/>
 <span class="pl-c"><span class="pl-c">#</span> Instale as dependências</span>
 $ yarn install <br/>
-<span class="pl-c"><span class="pl-c">#</span> Execute o servidor</span>
+<span class="pl-c"><span class="pl-c">#</span> Rode o servidor</span>
 $ yarn dev <br/>
 <span class="pl-c"><span class="pl-c">#</span> Rode as migrations</span>
 $ yarn migration:run <br/>
@@ -48,7 +48,7 @@ $ <span class="pl-c1">cd</span> Happy-NLW-03/web <br/>
 $ yarn install<br/>
 <span class="pl-c"><span class="pl-c">#</span> Rode a aplicação</span>
 $ yarn dev <br/>
-<span class="pl-c"><span class="pl-c">#</span> Navigate to http://localhost:3000</span>
+<span class="pl-c"><span class="pl-c">#</span> Navegue para http://localhost:3000</span>
 </pre>
 </div>
   <!--<h4> Mobile</h4>
