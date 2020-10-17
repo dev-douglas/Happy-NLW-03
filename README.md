@@ -3,6 +3,13 @@
     <p align="center"><img alt="Happy" src="https://github.com/dev-douglas/Happy-NLW-03/blob/main/web/src/images/logo.png"></p>
     <p align="center">Visite orfanatos e mude o dia de muitas crianças</p>
     <p align="center">
+      <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <!--<a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;-->
+      <a href="#licença">Licença</a>
+    </p>
+    <p align="center">
       <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dev-douglas/Happy-NLW-03">
       <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dev-douglas/Happy-NLW-03">
       <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dev-douglas/Happy-NLW-03">
@@ -21,7 +28,7 @@
     </ul>
     <!--<h2>Layout</h2>
     <p>Você pode visualizar o layout do projeto na versão <a href="" rel="nofollow">web</a> e <a href="" rel="nofollow">móvel</a>.-->
-    <h2>Como executar</h2>
+    <h2>Como usar</h2>
     <p>Para clonar e executar esta aplicação em sua máquina você precisa ter o <a href="https://git-scm.com" rel="nofollow">Git</a> e  <a href="https://legacy.yarnpkg.com" rel="nofollow">Yarn</a> instalados.</p>
     <h4>Clonar o repositório</h4>
     <div class="highlight highlight-source-shell">
