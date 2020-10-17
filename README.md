@@ -55,7 +55,7 @@ $ <span class="pl-c1">cd</span> Happy-NLW-03/web <br/>
 $ yarn install<br/>
 <span class="pl-c"><span class="pl-c">#</span> Rode a aplicação</span>
 $ yarn dev <br/>
-<span class="pl-c"><span class="pl-c">#</span> Navegue para http://localhost:3000</span>
+<span class="pl-c"><span class="pl-c">#</span> Para visualizar abra seu navegador e navegue para http://localhost:3000</span>
 </pre>
 </div>
   <!--<h4> Mobile</h4>
@@ -68,7 +68,6 @@ $ yarn install<br/>
 $ yarn dev <br/>
 </div>-->
     <h2>Licença</h2>
-    <p>Este projeto está sob a licença do MIT. Consulte a <a href="https://github.com/dev-douglas/Happy-NLW-03/blob/main/LICENSE" rel="nofollow">LICENSE</a> para obter mais informações.</p>
-    <hr>
+    <p>Este projeto está sob a licença do MIT. Consulte o arquivo <a href="https://github.com/dev-douglas/Happy-NLW-03/blob/main/LICENSE" rel="nofollow">LICENSE</a> para obter mais informações.</p>
   </article>
 </div>
